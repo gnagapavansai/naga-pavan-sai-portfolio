@@ -1,2 +1,2 @@
-# naga-pavan-sai-portfolio
+# Naga-Pavan-Sai-portfolio
 Professional Portfolio Website
